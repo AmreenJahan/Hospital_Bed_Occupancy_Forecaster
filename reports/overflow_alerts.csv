@@ -1,0 +1,50 @@
+Date,Department,Occupancy_Rate,Risk_Level,Recommendations
+2025-12-30,Cardiology,79.51,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2025-12-31,Cardiology,79.97,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2026-01-01,Cardiology,81.12,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2026-01-02,Cardiology,79.24,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2026-01-03,Cardiology,78.78,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2026-01-04,Cardiology,78.51,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2026-01-05,Cardiology,79.09,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2025-12-30,Emergency,86.08,ORANGE,Increase staffing across affected departments. | Prepare overflow units for activation. | Delay non-critical admissions where clinically safe. | Escalate to bed management team.
+2025-12-31,Emergency,85.18,ORANGE,Increase staffing across affected departments. | Prepare overflow units for activation. | Delay non-critical admissions where clinically safe. | Escalate to bed management team.
+2026-01-01,Emergency,84.8,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2026-01-02,Emergency,84.35,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2026-01-03,Emergency,82.0,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2026-01-04,Emergency,79.55,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2026-01-05,Emergency,78.02,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2026-01-01,General Medicine,103.92,RED,Increase staffing immediately across all units. | Open temporary wards and overflow units. | Delay non-critical admissions. | Prepare overflow units and divert protocols. | Activate hospital incident command procedures.
+2026-01-02,General Medicine,104.35,RED,Increase staffing immediately across all units. | Open temporary wards and overflow units. | Delay non-critical admissions. | Prepare overflow units and divert protocols. | Activate hospital incident command procedures.
+2026-01-03,General Medicine,103.37,RED,Increase staffing immediately across all units. | Open temporary wards and overflow units. | Delay non-critical admissions. | Prepare overflow units and divert protocols. | Activate hospital incident command procedures.
+2026-01-04,General Medicine,103.58,RED,Increase staffing immediately across all units. | Open temporary wards and overflow units. | Delay non-critical admissions. | Prepare overflow units and divert protocols. | Activate hospital incident command procedures.
+2026-01-05,General Medicine,103.19,RED,Increase staffing immediately across all units. | Open temporary wards and overflow units. | Delay non-critical admissions. | Prepare overflow units and divert protocols. | Activate hospital incident command procedures.
+2026-01-06,General Medicine,103.07,RED,Increase staffing immediately across all units. | Open temporary wards and overflow units. | Delay non-critical admissions. | Prepare overflow units and divert protocols. | Activate hospital incident command procedures.
+2026-01-07,General Medicine,103.11,RED,Increase staffing immediately across all units. | Open temporary wards and overflow units. | Delay non-critical admissions. | Prepare overflow units and divert protocols. | Activate hospital incident command procedures.
+2026-01-01,ICU,78.54,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2026-01-02,ICU,78.72,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2026-01-03,ICU,78.64,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2026-01-04,ICU,80.04,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2026-01-05,ICU,79.54,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2026-01-06,ICU,78.41,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2026-01-07,ICU,78.28,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2026-01-01,Neurology,79.98,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2026-01-02,Neurology,79.93,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2026-01-03,Neurology,79.47,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2026-01-04,Neurology,84.9,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2026-01-05,Neurology,82.51,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2026-01-06,Neurology,85.36,ORANGE,Increase staffing across affected departments. | Prepare overflow units for activation. | Delay non-critical admissions where clinically safe. | Escalate to bed management team.
+2026-01-07,Neurology,84.21,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2025-12-30,Orthopedics,71.38,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2025-12-31,Orthopedics,70.83,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2026-01-01,Orthopedics,73.14,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2026-01-02,Orthopedics,74.54,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2026-01-03,Orthopedics,74.61,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2026-01-04,Orthopedics,74.93,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2026-01-05,Orthopedics,74.4,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2025-12-30,Pediatrics,76.29,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2025-12-31,Pediatrics,75.41,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2026-01-01,Pediatrics,74.27,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2026-01-02,Pediatrics,74.53,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2026-01-03,Pediatrics,74.34,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2026-01-04,Pediatrics,76.78,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.
+2026-01-05,Pediatrics,78.46,YELLOW,Increase staffing in high-traffic units. | Review elective admission schedules. | Monitor discharge planning efficiency.

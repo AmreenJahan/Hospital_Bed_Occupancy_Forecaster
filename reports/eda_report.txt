@@ -1,0 +1,60 @@
+================================================================================
+HOSPITAL BED OCCUPANCY FORECASTER - EXPLORATORY DATA ANALYSIS REPORT
+================================================================================
+Generated on: 2026-06-09 15:15:10
+
+1. DATASET OVERVIEW
+--------------------------------------------------------------------------------
+Total Records: 6,943
+Total Features: 17
+Numerical Features: 11
+Categorical Features: 4
+
+2. KEY STATISTICS
+--------------------------------------------------------------------------------
+Occupancy Rate:
+  - Mean: 81.96%
+  - Median: 81.74%
+  - Std Dev: 16.93%
+  - Min: 45.34%
+  - Max: 129.33%
+
+Beds Occupied:
+  - Mean: 285
+  - Median: 284
+  - Std Dev: 55
+
+Daily Admissions:
+  - Mean: 50.1
+  - Median: 50.0
+
+3. DEPARTMENT ANALYSIS
+--------------------------------------------------------------------------------
+  - Orthopedics: 82.55%
+  - General Medicine: 82.25%
+  - Pediatrics: 82.22%
+  - ICU: 81.99%
+  - Neurology: 81.85%
+
+4. SEASONAL ANALYSIS
+--------------------------------------------------------------------------------
+  - Autumn: 81.42%
+  - Monsoon: 82.10%
+  - Spring: 82.51%
+  - Summer: 81.79%
+  - Winter: 82.05%
+
+5. VISUALIZATIONS GENERATED
+--------------------------------------------------------------------------------
+  - A_dataset_overview.png
+  - B_occupancy_analysis.png
+  - C_admissions_analysis.png
+  - D_department_analysis.png
+  - E_seasonal_analysis.png
+  - F_time_based_analysis.png
+  - G_hospital_operations_analysis.png
+  - H_correlation_heatmap.png
+
+================================================================================
+END OF EDA REPORT
+================================================================================

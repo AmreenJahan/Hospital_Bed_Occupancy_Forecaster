@@ -1,0 +1,71 @@
+================================================================================
+HOSPITAL BED OCCUPANCY FORECASTER - OPERATIONAL INSIGHTS REPORT
+================================================================================
+Generated on: 2026-06-09 15:15:20
+
+1. PEAK OCCUPANCY PERIODS
+--------------------------------------------------------------------------------
+Peak Occupancy Threshold: 97.02%
+Number of high occupancy days: 1,389
+Peak month: Jul (128 days)
+
+2. LOW OCCUPANCY PERIODS
+--------------------------------------------------------------------------------
+Low Occupancy Threshold: 66.18%
+Number of low occupancy days: 1,389
+Lowest month: Jul (138 days)
+
+3. BUSIEST DEPARTMENTS
+--------------------------------------------------------------------------------
+1. Orthopedics:
+   - Average Occupancy: 82.55%
+   - Total Admissions: 50,180
+   - Average Beds: 288
+2. General Medicine:
+   - Average Occupancy: 82.25%
+   - Total Admissions: 50,211
+   - Average Beds: 285
+3. Pediatrics:
+   - Average Occupancy: 82.22%
+   - Total Admissions: 49,068
+   - Average Beds: 285
+
+4. HIGHEST ADMISSION SEASONS
+--------------------------------------------------------------------------------
+Peak Admission Season: Winter
+Average Daily Admissions: 50.69
+Total Admissions: 86,580
+
+5. HOLIDAY EFFECTS
+--------------------------------------------------------------------------------
+Holiday occupancy increase: 1.7%
+Holiday average occupancy: 83.16%
+Non-holiday average occupancy: 81.81%
+
+6. STAFF AVAILABILITY EFFECTS
+--------------------------------------------------------------------------------
+High staff availability occupancy: 81.72%
+Low staff availability occupancy: 81.98%
+Correlation with occupancy: -0.015
+
+7. KEY OPERATIONAL RECOMMENDATIONS
+--------------------------------------------------------------------------------
+• Monitor occupancy closely during peak months identified
+• Consider resource reallocation during low occupancy periods
+• Focus staffing strategies on busiest departments
+• Prepare for increased admissions during peak seasons
+• Implement special protocols for holiday periods
+• Optimize staff scheduling based on availability patterns
+
+8. VISUALIZATIONS GENERATED
+--------------------------------------------------------------------------------
+  - I_peak_occupancy_periods.png
+  - J_low_occupancy_periods.png
+  - K_busiest_departments.png
+  - L_highest_admission_seasons.png
+  - M_holiday_effects.png
+  - N_staff_availability_effects.png
+
+================================================================================
+END OF OPERATIONAL INSIGHTS REPORT
+================================================================================

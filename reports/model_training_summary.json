@@ -1,0 +1,28 @@
+{
+  "best_model": "RandomForest",
+  "best_metrics": {
+    "Model": "RandomForest",
+    "MAE": 9.135017185032623,
+    "MSE": 127.67937067831303,
+    "RMSE": 11.299529666243327,
+    "R2": 0.5532039979728409
+  },
+  "tuning_params": {
+    "RandomForest": {
+      "max_depth": 10,
+      "min_samples_split": 5,
+      "n_estimators": 200
+    },
+    "GradientBoosting": {
+      "learning_rate": 0.05,
+      "max_depth": 3,
+      "n_estimators": 200
+    },
+    "XGBoost": {
+      "learning_rate": 0.05,
+      "max_depth": 4,
+      "n_estimators": 100
+    }
+  },
+  "feature_count": 42
+}

@@ -1,0 +1,56 @@
+================================================================================
+HOSPITAL BED OCCUPANCY FORECASTER - DATA QUALITY REPORT
+================================================================================
+Generated on: 2026-06-09 14:46:25
+
+1. DATASET OVERVIEW
+--------------------------------------------------------------------------------
+Original Dataset:
+  - Rows: 10,000
+  - Columns: 16
+  - Memory Usage: 1.31 MB
+
+Cleaned Dataset:
+  - Rows: 6,943
+  - Columns: 17
+  - Memory Usage: 0.96 MB
+
+2. MISSING VALUES ANALYSIS
+--------------------------------------------------------------------------------
+Total missing cells: 0
+Missing percentage: 0.00%
+
+Missing values by column:
+
+3. DUPLICATE ROWS ANALYSIS
+--------------------------------------------------------------------------------
+Exact duplicate rows: 0
+Duplicate percentage: 0.00%
+Duplicate dates: 8,179
+
+4. INVALID VALUES ANALYSIS
+--------------------------------------------------------------------------------
+  - occupancy_exceeds_100: Detected
+  - beds_overflow: 1,876 cases
+
+5. DATA CONSISTENCY CHECK
+--------------------------------------------------------------------------------
+  All consistency checks passed
+
+6. CLEANING OPERATIONS PERFORMED
+--------------------------------------------------------------------------------
+  - duplicates_removed: 0
+  - missing_values_filled: 0
+  - date_department_deduped: 3057
+  - over_capacity_flagged: 1085
+
+7. FINAL DATA QUALITY ASSESSMENT
+--------------------------------------------------------------------------------
+✓ DATA QUALITY: EXCELLENT
+  - No missing values
+  - No duplicate rows
+  - Ready for analysis and modeling
+
+================================================================================
+END OF REPORT
+================================================================================

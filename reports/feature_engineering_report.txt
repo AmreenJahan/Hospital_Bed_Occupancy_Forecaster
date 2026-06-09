@@ -1,0 +1,65 @@
+================================================================================
+HOSPITAL BED OCCUPANCY FORECASTER - FEATURE ENGINEERING REPORT
+================================================================================
+Generated on: 2026-06-09 14:46:40
+
+1. DATASET COMPARISON
+--------------------------------------------------------------------------------
+Original rows: 6,943, columns: 17
+Engineered rows: 6,943, columns: 44
+New features: 28
+
+2. TIME-AWARE FEATURE ENGINEERING
+--------------------------------------------------------------------------------
+✓ Lag features computed per Department (groupby)
+✓ Rolling features computed per Department (groupby)
+✓ Chronological ordering preserved within each department
+
+3. LEAKAGE PREVENTION
+--------------------------------------------------------------------------------
+Removed or excluded leakage features:
+  - Beds_Occupied
+  - Bed_Utilization_Ratio
+  - Staff_Occupancy_Ratio
+  - Staff_Occupancy_Interaction
+  - Emergency_Occupancy_Interaction
+  - Lag_1_Day_Beds
+  - Lag_7_Day_Beds
+  - Rolling_7_Day_Beds_Mean
+  - Rolling_30_Day_Beds_Mean
+
+4. NEW FEATURES
+--------------------------------------------------------------------------------
+  - Admission_Discharge_Ratio
+  - Admissions_LOS_Interaction
+  - Day
+  - Day_of_Week_Num
+  - Day_of_Year
+  - Emergency_Admission_Ratio
+  - Emergency_Admissions_Interaction
+  - ICU_Admission_Ratio
+  - Is_Weekend
+  - Lag_1_Day_Admissions
+  - Lag_1_Day_Occupancy
+  - Lag_30_Day_Admissions
+  - Lag_30_Day_Occupancy
+  - Lag_7_Day_Admissions
+  - Lag_7_Day_Occupancy
+  - Month_Num
+  - Quarter
+  - Rolling_30_Day_Admissions_Mean
+  - Rolling_30_Day_Occupancy_Mean
+  - Rolling_30_Day_Occupancy_Std
+  - Rolling_7_Day_Admissions_Mean
+  - Rolling_7_Day_Admissions_Std
+  - Rolling_7_Day_Occupancy_Mean
+  - Rolling_7_Day_Occupancy_Std
+  - Staff_Admissions_Interaction
+  - Staff_Per_Bed_Ratio
+  - Week_Number
+  - Year
+
+5. READY FOR MODELING
+--------------------------------------------------------------------------------
+Engineered dataset is ready for chronological train/test split.
+================================================================================

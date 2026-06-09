@@ -1,0 +1,32 @@
+================================================================================
+HOSPITAL BED OCCUPANCY FORECASTER - DATASET PREPARATION REPORT
+================================================================================
+Generated on: 2026-06-09 14:46:40
+
+Original rows: 6,943
+Features: 42
+Training samples: 5,554
+Testing samples: 1,389
+
+SPLIT METHOD: Chronological (time-aware)
+Split date: 2024-12-30
+Train mean occupancy: 81.8807
+Test mean occupancy: 82.2978
+
+LEAKAGE COLUMNS EXCLUDED:
+  - Beds_Occupied
+  - Bed_Utilization_Ratio
+  - Staff_Occupancy_Ratio
+  - Staff_Occupancy_Interaction
+  - Emergency_Occupancy_Interaction
+  - Lag_1_Day_Beds
+  - Lag_7_Day_Beds
+  - Rolling_7_Day_Beds_Mean
+  - Rolling_30_Day_Beds_Mean
+
+OUTPUT FILES:
+  - data/processed/train_data.csv
+  - data/processed/test_data.csv
+  - models/label_encoders.pkl
+  - models/split_info.json
+================================================================================
