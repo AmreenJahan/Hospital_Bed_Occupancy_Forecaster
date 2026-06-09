@@ -1,5 +1,3 @@
-# Final Audit & Submission Checklist
-
 ## Folder Structure
 
 ```
@@ -45,27 +43,6 @@ Hospital_Bed_Occupancy_Forecaster/
 └── notebooks/ (optional)
 ```
 
-## Requirement Verification
-
-| # | Requirement | Status |
-|---|-------------|--------|
-| 1 | Day 1 pipeline executed | PASS |
-| 2 | Leakage features removed | PASS |
-| 3 | Date+Department deduplication | PASS |
-| 4 | Department groupby lags/rolling | PASS |
-| 5 | Chronological train/test split | PASS |
-| 6 | EDA reports & visualizations | PASS |
-| 7 | RandomForest, GBR, XGBoost trained | PASS |
-| 8 | MAE, MSE, RMSE, R2 metrics | PASS |
-| 9 | Model comparison table | PASS |
-| 10 | Hyperparameter tuning | PASS |
-| 11 | Feature importance & residuals | PASS |
-| 12 | best_model.pkl saved | PASS |
-| 13 | 7-day forecast CSV | PASS |
-| 14 | Overflow alert system | PASS |
-| 15 | Streamlit dashboard (5 pages) | PASS |
-| 16 | Documentation reports | PASS |
-
 ## Installation
 
 ```bash
@@ -76,7 +53,6 @@ pip install -r requirements.txt
 ## Run Instructions
 
 ```bash
-# Full pipeline (Day 1 + modeling + forecast + alerts)
 python run_all.py
 
 # Or step-by-step:
@@ -89,10 +65,6 @@ python overflow_alert_system.py
 # Dashboard
 streamlit run streamlit_app/app.py
 ```
-
-## Missing Files
-
-None — all required deliverables generated.
 
 ## Notes
 
