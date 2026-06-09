@@ -6,8 +6,6 @@
 
 End-to-end **healthcare analytics and machine learning** project that forecasts hospital bed occupancy by department, detects overflow risk, and supports data-driven capacity planning.
 
-**Repository:** [github.com/AmreenJahan/Hospital_Bed_Occupancy_Forecaster](https://github.com/AmreenJahan/Hospital_Bed_Occupancy_Forecaster)
-
 ---
 
 ## Project Overview
@@ -254,12 +252,3 @@ Best model: **RandomForestRegressor** → `saved_models/best_model.pkl`
 
 ---
 
-## Author
-
-**Amreen Jahan** — Healthcare Analytics / Data Science Portfolio Project (June 2026)
-
----
-
-## License
-
-Educational and portfolio use.
